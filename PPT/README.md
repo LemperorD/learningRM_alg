@@ -1,1 +1,3 @@
-# Don't delete it & f**k git
+# PPT
+
+此处存放培训使用的ppt资料

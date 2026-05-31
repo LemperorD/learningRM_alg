@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\大学\大四上\机器人队\learningRM_alg\code\learning_mpc\learning_mpc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\大学\大四上\机器人队\learningRM_alg\code\learning_mpc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ABF65880-E5CC-336F-A0CC-9214F42FEE7F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

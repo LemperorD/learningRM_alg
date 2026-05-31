@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-learning_mpc",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "任务-learning_mpc",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

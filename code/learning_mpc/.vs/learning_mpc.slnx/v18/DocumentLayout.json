@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:learning_mpc.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:learning_mpc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,9 +28,22 @@
               "RelativeDocumentMoniker": "learning_mpc.hpp",
               "ToolTip": "D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.hpp",
               "RelativeToolTip": "learning_mpc.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-22T17:23:48.761Z",
+              "WhenOpened": "2026-06-06T07:42:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "learning_mpc.cpp",
+              "DocumentMoniker": "D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.cpp",
+              "RelativeDocumentMoniker": "learning_mpc.cpp",
+              "ToolTip": "D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.cpp",
+              "RelativeToolTip": "learning_mpc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-06T07:42:46.125Z",
               "EditorCaption": ""
             }
           ]

@@ -12,10 +12,8 @@
     ]
   },
   "ExpandedNodes": [
-    "",
-    "\\out",
-    "\\out\\build"
+    ""
   ],
-  "SelectedNode": "\\CMakeLists.txt",
+  "SelectedNode": "\\learning_mpc.hpp",
   "PreviewInSolutionExplorer": false
 }

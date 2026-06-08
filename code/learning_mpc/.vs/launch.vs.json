@@ -5,8 +5,8 @@
     {
       "type": "default",
       "project": "CMakeLists.txt",
-      "projectTarget": "learning_mpc.exe (Release\\learning_mpc.exe)",
-      "name": "learning_mpc.exe (Release\\learning_mpc.exe)"
+      "projectTarget": "learning_mpc.exe",
+      "name": "learning_mpc.exe"
     }
   ]
 }

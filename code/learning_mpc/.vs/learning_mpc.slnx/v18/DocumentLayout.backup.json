@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\",
+  "WorkspaceRootPath": "D:\\learningRM_alg\\code\\learning_mpc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:learning_mpc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\learningRM_alg\\code\\learning_mpc\\CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\learningRM_alg\\code\\learning_mpc\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\learningRM_alg\\code\\learning_mpc\\learning_mpc.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:learning_mpc.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\learningRM_alg\\code\\learning_mpc\\learning_mpc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:learning_mpc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMakePresets.json",
+              "DocumentMoniker": "D:\\learningRM_alg\\code\\learning_mpc\\CMakePresets.json",
+              "RelativeDocumentMoniker": "CMakePresets.json",
+              "ToolTip": "D:\\learningRM_alg\\code\\learning_mpc\\CMakePresets.json",
+              "RelativeToolTip": "CMakePresets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-08T08:44:15.269Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CMakeLists.txt",
-              "DocumentMoniker": "D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\CMakeLists.txt",
+              "DocumentMoniker": "D:\\learningRM_alg\\code\\learning_mpc\\CMakeLists.txt",
               "RelativeDocumentMoniker": "CMakeLists.txt",
-              "ToolTip": "D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\CMakeLists.txt",
+              "ToolTip": "D:\\learningRM_alg\\code\\learning_mpc\\CMakeLists.txt",
               "RelativeToolTip": "CMakeLists.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-06-06T06:51:00.59Z",
+              "WhenOpened": "2026-06-08T08:43:51.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "learning_mpc.hpp",
-              "DocumentMoniker": "D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.hpp",
+              "DocumentMoniker": "D:\\learningRM_alg\\code\\learning_mpc\\learning_mpc.hpp",
               "RelativeDocumentMoniker": "learning_mpc.hpp",
-              "ToolTip": "D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.hpp",
+              "ToolTip": "D:\\learningRM_alg\\code\\learning_mpc\\learning_mpc.hpp",
               "RelativeToolTip": "learning_mpc.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-06T06:50:50.141Z",
+              "WhenOpened": "2026-06-08T08:43:46.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "learning_mpc.cpp",
-              "DocumentMoniker": "D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.cpp",
+              "DocumentMoniker": "D:\\learningRM_alg\\code\\learning_mpc\\learning_mpc.cpp",
               "RelativeDocumentMoniker": "learning_mpc.cpp",
-              "ToolTip": "D:\\\u5927\u5B66\\\u5927\u56DB\u4E0A\\\u673A\u5668\u4EBA\u961F\\learningRM_alg\\code\\learning_mpc\\learning_mpc.cpp",
+              "ToolTip": "D:\\learningRM_alg\\code\\learning_mpc\\learning_mpc.cpp",
               "RelativeToolTip": "learning_mpc.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-06T06:50:47.38Z",
+              "WhenOpened": "2026-06-08T08:43:38.775Z",
               "EditorCaption": ""
             }
           ]
